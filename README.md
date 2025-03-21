@@ -1,5 +1,5 @@
 # SmartLegalContracts LLC
-The blockchains that survive will be the ones people use. Furthermore, with the advent of AI the most successful blockchains will be those which optimize the human-AI web3-blockchain UI interactions.
+The blockchains that survive will be the ones people use, which means providing an optimized user interface for the human-AI web3 interactions.
 
 Initially the smartlegalcontracts.net traditional natural language legally binding agreements and standard retail forms UI operates on the XRP Ledger via Xaman (formerly Xumm) wallet API signing for a Wyoming Motor Vehicle Bill of Sale generating a PDF download with txhash links. Users have the option to record the PDF→PNG-GIF converted images as Sologenic SOLO NFTs.
 
