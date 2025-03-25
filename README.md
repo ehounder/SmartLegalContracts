@@ -1,4 +1,6 @@
-# ![XRPLfavicon.png](/XRPLfavicon.png) SmartLegalContracts LLC 
+# ![XRPLfavicon.png](/XRPLfavicon.png) XRP Ledger User Interface
+
+# SmartLegalContracts LLC 
 
 SmartLegalContracts.net is an XRP Ledger web3 User Interface for traditional natural language legally binding agreements with Xaman (formerly Xumm) wallet API signing generating a PDF downloads with transaction hash links back to the XRP Ledger. Users have the option to convert the PDF images into PNG or GIF NFT images.
 
