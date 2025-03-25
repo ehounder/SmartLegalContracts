@@ -6,7 +6,7 @@ SmartLegalContracts.net is an XRP Ledger web3 User Interface for traditional nat
 
 Users manually enter in the retail form {key:value} pairs, however with the advent of AI agents, future development is progressing towards human-AI transactions and even AI-to-AI agreements and payments.
 
-[smartlegalcontracts.net](https://smartlegalcontracts.net) minimum viable product UI initiates with a [Wyoming Motor Vehicle Bill of Sale](/WyomingBillofSale.html). Document workflow follows conventional expectations of first verifying the vehicle, the identities of the Seller and Buyer, agreeing on a price, signing of the document, finalized by XRP payments.
+[smartlegalcontracts.net](https://smartlegalcontracts.net) minimum viable product UI initiates with a [Wyoming Motor Vehicle Bill of Sale](/WyomingBillofsale.html). Document workflow follows conventional expectations of first verifying the vehicle, the identities of the Seller and Buyer, agreeing on a price, signing of the document, finalized by XRP payments.
 
 ## Web3 agency fee multipayment equivalent to credit cart transaction
 
