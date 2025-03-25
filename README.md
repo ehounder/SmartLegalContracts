@@ -8,7 +8,7 @@ Users manually enter in the retail form {key:value} pairs, however with the adve
 
 [smartlegalcontracts.net](https://smartlegalcontracts.net) minimum viable product UI initiates with a [Wyoming Motor Vehicle Bill of Sale](/WyomingBillofsale.html). Document workflow follows conventional expectations of first verifying the vehicle, the identities of the Seller and Buyer, agreeing on a price, signing of the document, finalized by XRP payments.
 
-## Web3 agency fee multipayment equivalent to credit cart transaction
+## Web3site agency fee multipayment equivalent to credit cart transaction
 
 The SmartLegalContracts.net UI is fully browserified hence of lightest weight for scaling up the XRP Ledger transactions.
 
