@@ -2,7 +2,7 @@
 
 # SmartLegalContracts LLC 
 
-SmartLegalContracts.net is an XRP Ledger web3 User Interface for traditional natural language legally binding agreements with Xaman (formerly Xumm) wallet API signing generating a PDF downloads with transaction hash links back to the XRP Ledger. Users have the option to convert the PDF images into PNG or GIF NFT images.
+[SmartLegalContracts.net](https://smartlegalcontracts.net) is an XRP Ledger web3 User Interface for traditional natural language legally binding agreements with Xaman (formerly Xumm) wallet API signing generating a PDF downloads with transaction hash links back to the XRP Ledger. Users have the option to convert the PDF images into PNG or GIF NFT images.
 
 Users manually enter in the retail form {key:value} pairs, however with the advent of AI agents, future development is progressing towards human-AI transactions and even AI-to-AI agreements and payments.
 
