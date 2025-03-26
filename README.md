@@ -14,4 +14,4 @@ Users manually enter in the retail form {key:value} pairs, however with the adve
 
 MVP: [Wyoming Motor Vehicle Bill of Sale with Agent Fee](/WyomingBillofSaleAgent.html).
 
-The SmartLegalContracts.net UI is fully browserified hence its XRP Ledger transactions are a direct match with the Ledger's design for scalability and high performance.
+The SmartLegalContracts.net UI is fully browserified hence its XRP Ledger transactions extend the Ledger's design for scalability and high performance.
