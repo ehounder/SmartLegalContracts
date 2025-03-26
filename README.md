@@ -12,4 +12,4 @@ Users manually enter in the retail form {key:value} pairs, however with the adve
 
 [smartlegalcontracts.net](https://smartlegalcontracts.net) also operates on the Testnet and when the XRPL Labs Testnet is ready, users can test its Batch Amendment XLS-56 multipayments to a Seller of a product or service and a website agency fee or Legal fee all in one Xaman wallet signing transaction on the XRP Ledger equivalent to a credit card transaction.
 
-The SmartLegalContracts.net UI is fully browserified hence of lightest weight for scaling up the XRP Ledger transactions.
+The SmartLegalContracts.net UI is fully browserified hence its XRP Ledger transactions are a direct match with the Ledger's design for scalability and high performance.
