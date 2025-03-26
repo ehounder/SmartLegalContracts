@@ -1,4 +1,4 @@
-# ![XRPLfavicon.png](/XRPLfavicon.png) XRP Ledger User Interface
+# ![XRPLfavicon.png](/XRPLfavicon.png) XRP Ledger
 
 # SmartLegalContracts LLC 
 
