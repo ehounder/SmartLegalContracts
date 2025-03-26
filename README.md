@@ -6,13 +6,13 @@
 
 Users manually enter in the retail form {key:value} pairs, however with the advent of AI agents, future development is progressing towards human-AI transactions and even AI-to-AI agreements and payments.
 
-[smartlegalcontracts.net](https://smartlegalcontracts.net) minimum viable product UI initiates with a [Wyoming Motor Vehicle Bill of Sale](/WyomingBillofsale.html). Document workflow follows conventional expectations of first verifying the vehicle, the identities of the Seller and Buyer, agreeing on a price, signing of the document, finalized by XRP payments.
+[SmartLegalContracts.net](https://smartlegalcontracts.net) minimum viable product UI initiates with a [Wyoming Motor Vehicle Bill of Sale](/WyomingBillofsale.html). Document workflow follows conventional expectations of first verifying the vehicle, the identities of the Seller and Buyer, agreeing on a price, signing of the document, finalized by XRP payments.
 
-Tokenized Security Agreement escrow contract between a Lender and Borrower is also operational on the XRP Ledger Mainnet: [Security Agreement](/SecurityAgreement.html)
+Tokenized Security Agreement escrow contract between a Lender and Borrower is also operational on the XRP Ledger Mainnet: [Security Agreement](/SecurityAgreement.html).
 
 ## Web3site agency fee multipayment equivalent to credit cart transaction
 
-[smartlegalcontracts.net](https://smartlegalcontracts.net) also operates on the Testnet and when the XRPL Labs Testnet is ready, users can test its Batch Amendment XLS-56 multipayments to a Seller of a product or service and a website agency fee or Legal fee all in one Xaman wallet signing transaction on the XRP Ledger equivalent to a credit card transaction. 
+[SmartLegalContracts.net](https://smartlegalcontracts.net) also operates on the Testnet and when the XRPL Labs Testnet is ready, users can test its Batch Amendment XLS-56 multipayments to a Seller of a product or service and a website agency fee or Legal fee all in one Xaman wallet signing transaction on the XRP Ledger equivalent to a credit card transaction. 
 
 MVP: [Wyoming Motor Vehicle Bill of Sale with Agent Fee](/WyomingBillofSaleAgent.html).
 
