@@ -16,9 +16,9 @@ A soon as XRPL Labs Testnet is ready, users on [smartlegalcontracts.net](https:/
 
 ## Minimum Viable Product (MVP): 
 
-- [Wyoming Motor Vehicle Bill of Sale](/WyomingBillofsale.html) Mainnet
-- [Security Agreement](/SecurityAgreement.html) Mainnet
-- [Wyoming Motor Vehicle Bill of Sale with Agent Fee](/WyomingBillofSaleAgentFee.html) XRPL Labs Testnet
-- [Security Agreement with Legal Fee](/SecurityAgreementLegalFee.html) XRPL Labs Testnet
+- [Wyoming Motor Vehicle Bill of Sale](/WyomingBillofsale.html): Mainnet
+- [Security Agreement](/SecurityAgreement.html): Mainnet
+- [Wyoming Motor Vehicle Bill of Sale with Agent Fee](/WyomingBillofSaleAgentFee.html): XRPL Labs Testnet
+- [Security Agreement with Legal Fee](/SecurityAgreementLegalFee.html): XRPL Labs Testnet
 
 The SmartLegalContracts.net UI is fully browserified hence its XRP Ledger transactions extend the utility of the Ledger's proven design for scalability and high performance.
