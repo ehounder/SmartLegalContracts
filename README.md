@@ -16,8 +16,8 @@ A soon as XRPL Labs Testnet is ready, users on [smartlegalcontracts.net](https:/
 
 ## Minimum Viable Product (MVP): 
 
-- [Wyoming Motor Vehicle Bill of Sale](/WyomingBillofsale.html): Mainnet
-- [Security Agreement](/SecurityAgreement.html): Mainnet
+- [Wyoming Motor Vehicle Bill of Sale](/WyomingBillofsale.html): XRPL Mainnet
+- [Security Agreement](/SecurityAgreement.html): XRPL Mainnet
 - [Wyoming Motor Vehicle Bill of Sale with Agent Fee](/WyomingBillofSaleAgentFee.html): XRPL Labs Testnet
 - [Security Agreement with Legal Fee](/SecurityAgreementLegalFee.html): XRPL Labs Testnet
 
