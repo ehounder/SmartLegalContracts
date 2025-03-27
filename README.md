@@ -10,9 +10,9 @@ Users manually enter in the retail form {key:value} pairs, however with the adve
 
 Tokenized Security Agreement escrow contract between a Lender and Borrower is also operational on the XRP Ledger Mainnet: [Security Agreement](/SecurityAgreement.html).
 
-## Web3site agency fee multipayment equivalent to credit cart transaction
+## Web3site agency fee multipayment equivalent to credit card transaction
 
-A soon as XRPL Labs Testnet is ready, users on [smartlegalcontracts.net](https://smartlegalcontracts.net) can test its instance of the Batch Amendment XLS-56 multipayment to a Seller of a product or service and a website agency fee or Legal fee all in one Xaman wallet signing transaction on the XRP Ledger equivalent to a credit card single signing transaction: [Wyoming Motor Vehicle Bill of Sale with Agent Fee](/WyomingBillofSaleAgentFee.html). 
+A soon as XRPL Labs Testnet is ready, users on [smartlegalcontracts.net](https://smartlegalcontracts.net) can test Batch Amendment XLS-56 multipayments, i.e., split payments, to a Seller of a product or service and a website agency fee in one Xaman wallet signing transaction on the XRP Ledger equivalent to a credit card transaction: [Wyoming Motor Vehicle Bill of Sale with Agent Fee](/WyomingBillofSaleAgentFee.html). Users will also be able to test an [EscrowCreate, LegalFee payment] Batch transaction: [Security Agreement with Legal Fee](/SecurityAgreementLegalFee.html).
 
 ## Minimum Viable Product (MVP): 
 
